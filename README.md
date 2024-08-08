@@ -6,7 +6,7 @@
 
 I am a front-end and back-end developer with a keen interest in learning UI/UX. I am committed to creating exceptional user experiences by combining my technical skills with strong design knowledge.
 
-Skills: JS / HTML / CSS/ C++/ C/ UI/UX
+Skills: JS / HTML / CSS/ UI/UX / Python / SQL / R Studio / TensorFlow / Data Analyst / Data scientist / Front-end/Back-end / Machine Learning
 
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Machine learning 
