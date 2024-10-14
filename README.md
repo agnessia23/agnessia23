@@ -1,6 +1,6 @@
 ### Hi there 👋, Agnes Glory Siahaan
 #### Data Enthusiast and Web Design
-![Design and Development](https://pbs.twimg.com/profile_banners/1435248345044246531/1687780053/1500x500)
+![Design and Development](https://www.canva.com/design/DAFm6ahd_Tw/eLVWNGRJs0bJMQhhV3-R5w/edit?utm_content=DAFm6ahd_Tw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnessia23)](https://github.com/anuraghazra/github-readme-stats)
 
